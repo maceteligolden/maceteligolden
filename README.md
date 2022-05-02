@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maceteligolden
 - 👀 I’m interested in developing web applications
-- 🌱 I’m currently learning Laravel and Vuejs
+- 🌱 I’m currently building with Nodejs and Angular
 - 💞️ I’m looking to collaborate on building digital solutions
 - 📫 How to reach me through my email maceteligolden@gmail.com
 
