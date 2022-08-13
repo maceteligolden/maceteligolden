@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maceteligolden
 - 👀 I’m interested in developing web applications
-- 🌱 I’m currently building with Nodejs, Angular and React
-- 💞️ I’m looking to collaborate on building digital solutions
+- 🌱 I’m currently building with Nodejs, TypeScript and React
+- 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me through my email maceteligolden@gmail.com
 
 <!---
