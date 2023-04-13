@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects and great ideas
 - 📫 How to reach me through my email maceteligolden@gmail.com
 - ✍️ Check out my blog @ https://medium.com/@benjaminambrose99
-- 🧰 Building https:https://5thpro.app and https://alloy.africa
+- 🧰 Building https://sunglo.io https://5thpro.app and https://alloy.africa
 <!---
 maceteligolden/maceteligolden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
